@@ -40,8 +40,5 @@ gulp
 * [Табы] - Проверьте, что бы настройки отступов в редакторе были сделаны табами (это важно для PUG файлов)
 * [Bem] - При написании кода используем BEM naming (Блок, Элемент, Модификатор)# WD05-project-1-Ivanova
  
-# WD05-project-1-Ivanova1
-# WD05-project-1-Ivanova1
+
 # WD_05-project-1-Ivanova
-# WD-05-project-1-Ivanova
-# WD-05-project-1-Ivanova
